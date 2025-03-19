@@ -14,7 +14,7 @@ Built upon the principles and exercises outlined in the highly regarded book “
 
 ## Content Review:
 
-#### `Part 1: From to`
+#### `Part 1: From Basics to Workflow set-up`
 
 Chapter 1: ML for Trading - Idea to Execution
 
@@ -37,7 +37,7 @@ Chapter 9: Time Series Models for Volatility & Statistical Arbitrage
 Chapter 10: Bayesian ML - Dynamic Sharpe Ratios
 
 
-#### `Part 2: From to`
+#### `Part 2: From Random Forest to Deep Learning`
 
 Chapter 11: Random Forest - A Long-Short Strategy
 
@@ -60,11 +60,11 @@ Chapter 19: RNN's for Multiariate Time Series & Sentiment Analysis
 Chapter 20: Autoencoders for Conditional Risk Factors & Asset Pricing
 
 
-#### `Part 3: Applications of Conformal Prediction`
+#### `Part 3: GAN & Deep Reinforment Learning`
 
 Chapter 21: GAN for Synthetic Time Series Data
 
-Chapter 22: Deep Reinforment Learning
+Chapter 22: Deep Reinforcement Learning
 
 Chapter 23: Conclusions
 
