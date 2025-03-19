@@ -84,16 +84,7 @@ Jansen, S. (2020). Machine Learning for Algorithmic Trading. Packt Publishing. I
 # Mandatory Libraries
 
 ```sh
-install OpenML
-pip install nonconformist
-pip install openml
-pip install dtype_diet
-install XGBoost
-pip install xgboost
-pip install --upgrade xgboost
-install CatBoost
-pip install catboost
-pip install ipywidgets
+Will be added as progress is done
 ```
 
 # Virtual Environment
