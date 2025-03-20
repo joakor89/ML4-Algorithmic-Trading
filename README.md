@@ -14,7 +14,7 @@ Built upon the principles and exercises outlined in the highly regarded book “
 
 ## Content Review:
 
-#### `Part 1: From Basics to Workflow set-up`
+#### `Part 1: Data, Alpha Factors & Portfolios`
 
 Chapter 1: ML for Trading - Idea to Execution
 
@@ -25,6 +25,8 @@ Chapter 3: Alternative Data for Finance
 Chapter 4: Financial Feature Engineering
 
 Chapter 5: Portfolio Optimization & Performance Evaluation
+
+#### `Part 2: ML for Trading - Fundamentals`
 
 Chapter 6: The ML Process
 
@@ -37,13 +39,13 @@ Chapter 9: Time Series Models for Volatility & Statistical Arbitrage
 Chapter 10: Bayesian ML - Dynamic Sharpe Ratios
 
 
-#### `Part 2: From Random Forest to Deep Learning`
-
 Chapter 11: Random Forest - A Long-Short Strategy
 
 Chapter 12: Boosting The Trading Strategy
 
 Chapter 13: Data-Driven Risk Factos & Asset Allocation witH Unsupervised ML
+
+#### `Part 3: NLP`
 
 Chapter 14: Text Data for Trading
 
@@ -60,7 +62,7 @@ Chapter 19: RNN's for Multiariate Time Series & Sentiment Analysis
 Chapter 20: Autoencoders for Conditional Risk Factors & Asset Pricing
 
 
-#### `Part 3: GAN & Deep Reinforment Learning`
+#### `Part 4: Deep & Reinforcement Learning`
 
 Chapter 21: GAN for Synthetic Time Series Data
 
