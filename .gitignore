@@ -1,0 +1,12 @@
+# Ignorar datasets, binarios y temporales
+data/
+*.zip
+*.tfrecord
+*.INFO
+.DS_Store
+
+# Ignorar resultados de modelos
+chap_18/results/
+
+# Ignorar checkpoints y notebooks temporales
+.ipynb_checkpoints/
