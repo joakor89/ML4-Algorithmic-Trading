@@ -10,3 +10,10 @@ chap_18/results/
 
 # Ignorar checkpoints y notebooks temporales
 .ipynb_checkpoints/
+
+# Evita subir checkpoints pesados
+chap_21/dcgan/training_chpk/
+*.data-00000-of-00001
+*.ckpt
+*.h5
+*.pt
